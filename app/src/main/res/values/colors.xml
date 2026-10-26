@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header_bg">#1C2237</color>
+    <color name="header_green_text">#78C47F</color>
+    <color name="screen_bg">#F2F4F7</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1C2237</color>
+    <color name="text_secondary">#82889A</color>
+    <color name="btn_green_bg">#64C578</color>
+    <color name="btn_green_text">#1C2237</color>
+    <color name="btn_retry_bg">#D04832</color>
+    <color name="user_icon_bg">#EBF3EE</color>
+    <color name="user_icon_tint">#2A324B</color>
+    <color name="post_icon_bg">#F9EFEA</color>
+    <color name="post_icon_tint">#D07855</color>
+    <color name="input_border">#D0D5DD</color>
+    <color name="input_bg">#FFFFFF</color>
+</resources>

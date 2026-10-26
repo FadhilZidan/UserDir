@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Direktori Pengguna</string>
+    <string name="direktori_pengguna">DIREKTORI PENGGUNA</string>
+    <string name="daftar_pengguna">Daftar Pengguna</string>
+    <string name="pengguna_dimuat_format">%d pengguna dimuat</string>
+    <string name="postingan_pengguna">Postingan Pengguna</string>
+    <string name="postingan_format">%d postingan</string>
+    <string name="judul_postingan_baru">JUDUL POSTINGAN BARU</string>
+    <string name="hint_judul_post">Belajar Retrofit</string>
+    <string name="tambah_postingan">Tambah Postingan</string>
+    <string name="status_gagal_memuat">Status: gagal memuat</string>
+    <string name="gagal_memuat_data">Gagal memuat data</string>
+    <string name="pesan_gagal_koneksi">Tidak ada koneksi internet. Periksa jaringan Anda, lalu coba lagi.</string>
+    <string name="tutup">TUTUP</string>
+    <string name="coba_lagi">COBA LAGI</string>
+</resources>
